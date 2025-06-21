@@ -1,0 +1,13 @@
+#pokemonsprite{
+    width: 500px;
+    
+}
+#fetch{
+    width: 200px;
+    height: 20px;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;    
+}
